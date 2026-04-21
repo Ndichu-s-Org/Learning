@@ -1,0 +1,1 @@
+**Why this matters for Typescript** : Typescripts type system exists specifically to prevent implicit coercion bugs, whe you declare a variable as a string, TS wont let you accidentally add a number to it
