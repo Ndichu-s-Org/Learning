@@ -1,5 +1,3 @@
-Absolutely! Here are 10 practice questions on vectors, ranging from basic to more advanced, based on what you've been learning:
-
 ## **Basic Questions**
 
 **Question 1:** Create a vector `a = [3, 7, 2, 8]`. Calculate its norm manually (without NumPy's built-in norm function).
